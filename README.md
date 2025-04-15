@@ -4,3 +4,14 @@
 8. Трамвайні квитки мають шестизначні номери, вважають якщо квиток «щасливий» то сума перших трьох цифр дорівнює сумі останніх. Знайти кількість щасливих квитків
 
 ## Фото коду та результатів: 
+### Головний клас
+![image](https://github.com/user-attachments/assets/d6995960-b8ba-4e8a-840c-f79df126f385)
+
+
+### Обчислення щасливого білету
+![image](https://github.com/user-attachments/assets/7cd0833a-329a-4fce-9ba6-989f0fbc4eb5)
+
+
+### Результати роботи
+![image](https://github.com/user-attachments/assets/bba7ec46-5a00-4371-ba82-65a6c9948a25)
+
